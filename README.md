@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkandaSrinivasan
-- 👀 I’m interested in building cool stuff.
-- 🌱 I’m currently learning React
+- 👀 I’m interested in building cool apps.
+- 🌱 I’m currently learning React and building apps using Node and React.
 - 📫 How to reach me https://www.linkedin.com/in/skanda-srinivasan-03b918150/
 
 <!---
